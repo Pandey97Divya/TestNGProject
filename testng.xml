@@ -1,0 +1,8 @@
+
+<suite name="SauceDemo Login Test Suite">
+    <test name="Login Tests">
+        <classes>
+            <class name="testng.project.AppTest"/>
+        </classes>
+    </test>
+</suite>
